@@ -7,7 +7,7 @@ import (
 	"text/template"
 
 	"github.com/Masterminds/sprig"
-	"github.com/luraproject/lura/config"
+	"github.com/badboyd/lura/config"
 )
 
 func ExampleTemplateParser_marshal() {
