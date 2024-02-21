@@ -4,8 +4,8 @@ github.com/Masterminds/semver v1.5.0 h1:H65muMkzWKEuNDnfl9d70GUjFniHKHRbFPGBuZ3Q
 github.com/Masterminds/semver v1.5.0/go.mod h1:MB6lktGJrhw8PrUyiEoblNEGEQ+RzHPF078ddwwvV3Y=
 github.com/Masterminds/sprig v2.22.0+incompatible h1:z4yfnGrZ7netVz+0EDJ0Wi+5VZCSYp4Z0m2dk6cEM60=
 github.com/Masterminds/sprig v2.22.0+incompatible/go.mod h1:y6hNFY5UBTIWBxnzTeuNhlNS5hqE0NB0E6fgfo2Br3o=
-github.com/badboyd/lura v1.4.3 h1:20+z7RoGrPXsKO2GWCwSY0/g8t7Bo7jc5cpuNT5U48U=
-github.com/badboyd/lura v1.4.3/go.mod h1:cTtcl2ySzI1MRA2qGHDZgFXfOXKUcV5sqHFC6H+v9zg=
+github.com/betprophet1/lura v0.0.0-20240221045654-d35c5632c6a5 h1:YdaSlT3ZJsFpcyfCzpmCVvgiJOlNkDliYfFcpSBcKes=
+github.com/betprophet1/lura v0.0.0-20240221045654-d35c5632c6a5/go.mod h1:RCUVPs5cfLueLHkXn8S3NE5C3SLPKoWirbag+8ydwb8=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/devopsfaith/flatmap v0.0.0-20200601181759-8521186182fc/go.mod h1:J9Y/58s7wx7HbHT3i4UKNwLGuBB9qCf0/JUdEFGDPmA=
